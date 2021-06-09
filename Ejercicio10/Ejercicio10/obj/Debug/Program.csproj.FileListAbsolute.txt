@@ -1,0 +1,7 @@
+C:\Users\Kekon\source\repos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\Kekon\source\repos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\Kekon\source\repos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\Kekon\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Kekon\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Kekon\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\Kekon\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb

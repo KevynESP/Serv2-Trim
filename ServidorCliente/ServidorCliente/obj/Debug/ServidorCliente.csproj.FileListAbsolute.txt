@@ -1,0 +1,7 @@
+C:\Users\Kekon\source\repos\ServidorCliente\ServidorCliente\bin\Debug\ServidorCliente.exe.config
+C:\Users\Kekon\source\repos\ServidorCliente\ServidorCliente\bin\Debug\ServidorCliente.exe
+C:\Users\Kekon\source\repos\ServidorCliente\ServidorCliente\bin\Debug\ServidorCliente.pdb
+C:\Users\Kekon\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.csprojAssemblyReference.cache
+C:\Users\Kekon\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.csproj.CoreCompileInputs.cache
+C:\Users\Kekon\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.exe
+C:\Users\Kekon\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\bin\Debug\Cliente1.exe.config
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\bin\Debug\Cliente1.exe
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\bin\Debug\Cliente1.pdb
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.csprojAssemblyReference.cache
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.Form1.resources
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.exe
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.pdb
+C:\Users\Kekon\source\repos\ServidorCliente\Cliente1\obj\Debug\Cliente1.Form2.resources
